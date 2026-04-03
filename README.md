@@ -58,4 +58,4 @@ I’m focused on becoming a stronger **Backend Engineer**, with an emphasis on:
 
 * Email: [bruno.manotf@gmail.com](mailto:bruno.manotf@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/bruno-mano-62a99523a/
-* Website: cv.nikoondev.com
+* Website: https://cv.nikoondev.com/
