@@ -38,7 +38,7 @@ Currently, I work in a cloud-focused environment, contributing to backend system
 
 <div style="display: inline_block"><br/>
     <a href="https://www.credly.com/badges/8a392777-aea7-493e-87ef-57206983d55d" target="_blank">
-        <img align="center" alt="AWS Cloud Practitioner" src="https://images.credly.com/size/340x340/images/68406c6e-7c16-4a1b-bf5b-1c3f9a92f6c0/image.png"/>
+        <img align="center" alt="AWS Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
     </a>
 </div>
 
