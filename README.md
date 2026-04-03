@@ -1,9 +1,5 @@
 ### Hello! My name is Bruno Mano 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bruno-mano-62a99523a/)
-
----
-
 ### 🚀 Technologies I Work With
 
 <div style="display: inline_block"><br/>
@@ -12,8 +8,6 @@
     <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img align="center" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
     <br><br>
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -40,6 +34,16 @@ Currently, I work in a cloud-focused environment, contributing to backend system
 
 ---
 
+### 🏅 Certifications
+
+<div style="display: inline_block"><br/>
+    <a href="https://www.credly.com/badges/8a392777-aea7-493e-87ef-57206983d55d" target="_blank">
+        <img align="center" alt="AWS Cloud Practitioner" src="https://images.credly.com/size/340x340/images/68406c6e-7c16-4a1b-bf5b-1c3f9a92f6c0/image.png"/>
+    </a>
+</div>
+
+---
+
 ### 🎯 Goals
 
 I’m focused on becoming a stronger **Backend Engineer**, with an emphasis on:
@@ -53,6 +57,5 @@ I’m focused on becoming a stronger **Backend Engineer**, with an emphasis on:
 ### 📫 Contact
 
 * Email: [bruno.manotf@gmail.com](mailto:bruno.manotf@gmail.com)
-* GitHub: https://github.com/BrunoMano2004
 * LinkedIn: https://www.linkedin.com/in/bruno-mano-62a99523a/
-
+* Website: cv.nikoondev.com
