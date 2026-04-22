@@ -1,10 +1,9 @@
 ### Hello! My name is Bruno Mano 👋
-
 ### 🚀 Technologies I Work With
-
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img align="center" alt="Quarkus" src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white"/>
     <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img align="center" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -25,17 +24,15 @@
 ---
 
 ### 👨‍💻 About Me
-
 I'm a **Backend Developer** passionate about building scalable and well-structured systems.
-
 I have hands-on experience with **Java and Spring Boot**, as well as **Node.js and NestJS**, working on REST APIs, database integration, and cloud-based solutions using AWS.
-
 Currently, I work in a cloud-focused environment, contributing to backend systems used in real-world applications. I also enjoy building personal projects and continuously improving my skills in software architecture and backend development.
+
+Currently, I'm deepening my knowledge in **Domain-Driven Design (DDD)** and **Hexagonal Architecture**, applying these concepts in practice with **Quarkus** — exploring how to build well-structured, maintainable, and domain-focused backend applications.
 
 ---
 
 ### 🏅 Certifications
-
 <div style="display: inline_block"><br/>
     <a href="https://www.credly.com/badges/8a392777-aea7-493e-87ef-57206983d55d" target="_blank">
         <img align="center" alt="AWS Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
@@ -45,17 +42,15 @@ Currently, I work in a cloud-focused environment, contributing to backend system
 ---
 
 ### 🎯 Goals
-
-I’m focused on becoming a stronger **Backend Engineer**, with an emphasis on:
-
+I'm focused on becoming a stronger **Backend Engineer**, with an emphasis on:
 * Scalable system design
 * Cloud architecture (AWS)
 * Clean and maintainable code
+* Domain-Driven Design (DDD) and Hexagonal Architecture
 
 ---
 
 ### 📫 Contact
-
 * Email: [bruno.manotf@gmail.com](mailto:bruno.manotf@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/bruno-mano-62a99523a/
 * Website: https://curriculo.nikoondev.com/
